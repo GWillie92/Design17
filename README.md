@@ -1,0 +1,2 @@
+# Design17
+ 0 down vote favorite trying to implement basic set alarm by inputting time into TextField2 and then checking onboard time from raspberry pi 2 device time however print statement is showing that our loop to stop is not working due to being stuck in a while loop by not getting the current time from calender. print statement shows that our time is still stuck at the predetermined "set alarm time" and not updating properly
